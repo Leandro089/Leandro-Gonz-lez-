@@ -1,5 +1,5 @@
 # :: Toda la cadena
-name = "Pedro"
+name = "Leandro "
 
 name_reverse = name[::-1]
 
